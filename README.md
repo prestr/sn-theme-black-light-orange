@@ -8,4 +8,4 @@ Standard Notes Theme - Black sidebar with light orange accents.
 
 ## Install
 
-Preferences → General → Advanced Settings → Install: https://listed.to/p/cl8x43Xx9t
+Preferences → General → Advanced Options → Install: https://listed.to/p/cl8x43Xx9t
