@@ -3,8 +3,7 @@ Standard Notes Theme - Black sidebar with light orange accents.
 
 ## Screenshot
 
-![Screenshot](https://github.com/prestr/sn-theme-black-light-orange/assets/39970655/cefdf51d-c5db-4cc6-b20f-9277db4994f6)
-
+![Screenshot](https://github.com/prestr/sn-theme-black-light-orange/assets/39970655/4e2caaa5-87d3-4619-9424-521eb4c8fd1d)
 
 ## Install
 
