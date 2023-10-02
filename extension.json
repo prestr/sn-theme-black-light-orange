@@ -9,8 +9,8 @@
   "download_url": "https://github.com/prestr/sn-theme-black-light-orange/archive/refs/tags/v1.0.zip",
   "dock_icon": {
     "type": "circle",
-    "background_color": "#FF8D00",
-    "foreground_color": "#FF8D00",
-    "border_color": "#FF8D00"
+    "background_color": "#FF8000",
+    "foreground_color": "#FF8000",
+    "border_color": "#FF8000"
   }
 }
