@@ -1,5 +1,5 @@
 :root {
-  --accent-color: #FF8D00;
+  --accent-color: #FF8000;
   --sidebar-background-color: #1c1d1e;
   --sidebar-text-color: #f5f5f5;
   
@@ -12,5 +12,5 @@
   --navigation-item-count-color: #7c7c7c;
   --navigation-item-selected-background-color: #3e3e3e;
   
-  --sn-stylekit-accessory-tint-color-1: #FF8D00;
+  --sn-stylekit-accessory-tint-color-1: #FF8000;
 }
