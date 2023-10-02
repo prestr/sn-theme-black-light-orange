@@ -1,0 +1,16 @@
+{
+  "identifier": "prestr.sn-theme-black-light-orange",
+  "name": "Black & Light Orange",
+  "content_type": "SN|Theme",
+  "version": "1.0",
+  "description": "Light theme for Standard Notes with a black sidebar and light orange accents.",
+  "url": "https://cdn.jsdelivr.net/gh/prestr/sn-theme-black-light-orange@v1.0/main.css",
+  "latest_url": "https://listed.to/p/cl8x43Xx9t",
+  "download_url": "https://github.com/prestr/sn-theme-black-light-orange/archive/refs/tags/v1.0.zip",
+  "dock_icon": {
+    "type": "circle",
+    "background_color": "#FF8D00",
+    "foreground_color": "#FF8D00",
+    "border_color": "#FF8D00"
+  }
+}
